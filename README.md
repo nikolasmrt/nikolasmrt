@@ -25,7 +25,6 @@
   <img align="center" alt="Nik-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nik-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Nik-GAS" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_script/google_script-icon.svg">
 </div>
 
 ---
