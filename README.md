@@ -11,7 +11,8 @@
 - 💡 Criei o projeto **Eco-Vida Sustentabilidade** para ajudar pessoas a monitorar hábitos ecológicos 🌱
 - 🎧 Música da vez:
 
-[![Now Playing: Remembrance - Balmorhea](https://img.shields.io/badge/🎵_Ouça-Quarta_Cadeira_%7C_Teto-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/intl-pt/track/7xiw42KTmCcqfZNCZqUcnF?si=9cac6c1e55e347ca)
+[![Spotify](https://novatorem-nikolasmrt.vercel.app/api/spotify)](https://open.spotify.com/user/seuid)
+
 
 ---
 
