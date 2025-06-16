@@ -11,7 +11,8 @@
 - 💡 Criei o projeto **Eco-Vida Sustentabilidade** para ajudar pessoas a monitorar hábitos ecológicos 🌱
 - 🎧 Música da vez:
 
-[![Spotify](https://novatorem-nikolasmrt.vercel.app/api/spotify)](https://open.spotify.com/user/seuid)
+[![Remembrance - Balmorhea](https://i.scdn.co/image/ab67616d0000b273e3fe7a772dfc88f2d98ed9f0)](https://open.spotify.com/intl-pt/track/7xiw42KTmCcqfZNCZqUcnF?si=9cac6c1e55e347ca)
+
 
 
 ---
