@@ -11,9 +11,7 @@
 - 💡 Criei o projeto **Eco-Vida Sustentabilidade** para ajudar pessoas a monitorar hábitos ecológicos 🌱
 - 🎧 Música da vez:
 
-[![Remembrance - Balmorhea](https://i.scdn.co/image/ab67616d0000b273e3fe7a772dfc88f2d98ed9f0)](https://open.spotify.com/intl-pt/track/7xiw42KTmCcqfZNCZqUcnF?si=9cac6c1e55e347ca)
-
-
+[![🎧 Ouvir Remembrance – Balmorhea](https://img.shields.io/badge/🎧_Ouvir_Remembrance_-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/intl-pt/track/7xiw42KTmCcqfZNCZqUcnF?si=9cac6c1e55e347ca)
 
 ---
 
