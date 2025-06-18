@@ -1,21 +1,21 @@
-# Oi, eu sou o Nikolas! 👋
+# Hi, I'm Nikolas! 👋
 
-✨ Programador em formação | 🎓 Estudante de Sistemas de Informação | 🌱 Apaixonado por tecnologia e pela natueza
-
----
-
-## 💻 Sobre mim
-
-- 🔭 Atualmente desenvolvendo projetos com **Python**, **JavaScript** e **Google Apps Script**
-- 📚 Estudando automações, integração com APIs e construção de assistentes virtuais com **IA**
-- 💡 Criei o projeto **Eco-Vida Sustentabilidade** para ajudar pessoas a monitorar hábitos ecológicos 🌱
-- 🎧 Música da vez:
-
-[![🎧 Ouvir Remembrance – Balmorhea](https://img.shields.io/badge/🎧_Ouvir_Remembrance_-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/intl-pt/track/7xiw42KTmCcqfZNCZqUcnF?si=9cac6c1e55e347ca)
+✨ Software Developer in Progress | 🌱 Tech & Nature Enthusiast | 🤖 Passionate about automation and meaningful solutions
 
 ---
 
-## 🛠️ Tecnologias que uso:
+## 💻 About Me
+
+- 🔭 Currently developing projects using **Python**, **JavaScript**, and **Google Apps Script**
+- 📚 Studying automation, API integration, and building AI-based virtual assistants
+- 💡 Creator of the **Eco-Life Sustainability** project — helping people track ecological habits 🌱
+- 🎧 Currently listening to:
+
+[![🎧 Listen to Remembrance – Balmorhea](https://img.shields.io/badge/🎧_Listen_Remembrance_-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/intl-pt/track/7xiw42KTmCcqfZNCZqUcnF?si=9cac6c1e55e347ca)
+
+---
+
+## 🛠️ Technologies I Use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,27 +33,27 @@
 
 <div align="center">
   <a href="https://github.com/nikolasmrt">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nikolasmrt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmrt&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nikolasmrt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmrt&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-martins-de-oliveira-3482812b1)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nnk.mrt)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
-
----
-
-## ✨ Um pouco mais de mim
-
-- 📽️ Quero criar conteúdos úteis e acolhedores para quem está começando
-- 🧘‍♀️ Pratico meditação, gosto de ASMR tech e ouvir lo-fi enquanto codifico
-- 🤖 Sonho em trabalhar com IA e automações que transformem o dia a dia das pessoas
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-martins-oliveira/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nnk.mrt)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-bice-93.vercel.app/)
 
 ---
 
-> “A tecnologia não precisa ser fria. Ela pode ser empática, inclusiva e humana.”
+## ✨ A Bit More About Me
 
+- 📽️ I want to create tech content that's useful, welcoming, and beginner-friendly  
+- 🧘‍♀️ I practice meditation, enjoy ASMR-tech videos and lo-fi playlists while coding  
+- 🤖 I dream of working with AI and automation that transform people's everyday lives
+
+---
+
+> “Technology doesn’t have to be cold. It can be empathetic, inclusive, and deeply human.”
