@@ -47,13 +47,13 @@
     <tr>
       <td align="center"><b>Backend</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet,postgres,mysql,sqlite&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=fastapi,django,flask,mysql,sqlite&theme=dark" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>DevOps & Tools</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,rabbitmq,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,rabbitmq&theme=dark" />
       </td>
     </tr>
   </table>
