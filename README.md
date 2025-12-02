@@ -19,9 +19,6 @@
   <a href="https://nikolasportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:nikoti2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
 </div>
 
@@ -39,23 +36,25 @@
 
 ### 🛠️ Tech Stack & Tools
 
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90"><b>Languages</b></td>
-      <td align="center" width="500">
+      <td align="center"><b>Languages</b></td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=python,csharp,js,html,css&theme=dark" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="90"><b>Backend</b></td>
-      <td align="center" width="500">
+      <td align="center"><b>Backend</b></td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet,postgres,mysql,sqlite&theme=dark" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="90"><b>DevOps & Tools</b></td>
-      <td align="center" width="500">
+      <td align="center"><b>DevOps & Tools</b></td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,rabbitmq,linux&theme=dark" />
       </td>
     </tr>
