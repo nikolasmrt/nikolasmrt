@@ -1,31 +1,62 @@
-### Olá, eu sou Nikolas Martins! 👋
+<div align="center">
 
-Sou um estudante de **Sistemas de Informação** focado em **Desenvolvimento Backend** e **Inteligência Artificial**. Gosto de transformar ideias em código limpo, explorando arquiteturas escaláveis e soluções inovadoras.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Nikolas+Martins;Backend+Developer;Python+%26+AI+Enthusiast" alt="Typing SVG" />
+  </a>
 
-- 🔭 Atualmente trabalhando em: **APIs RESTful com Python e Integrações de IA**
-- 🎓 Formação: Sistemas de Informação na **PUC Minas**
-- ⚡ Foco Técnico: **Python, FastAPI, SQL e Engenharia de Software**
+  <br/>
+
+  <p align="center">
+    Information Systems Undergraduate at <b>PUC Minas</b>.<br>
+    I build scalable architectures and bridge the gap between <b>Complex Data</b> and <b>User Experience</b>.
+  </p>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/nikolas-martins-oliveira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://nikolasportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:nikoti2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+
+</div>
+
+<br/>
+<hr/>
+
+### ⚡ What I'm Up To
+
+- 🔭 I’m currently working on **High-performance RESTful APIs & AI Integrations**.
+- 🎓 Studying **Information Systems** (4th Semester) at PUC Minas.
+- 🧠 Deepening my knowledge in **Microservices Architecture** and **Clean Code**.
+- ⚡ Fun fact: I love blending **Cinematography** concepts with **Tech Logic**.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,csharp,dotnet,postgres,mysql,docker,git,github,vscode&perline=6&theme=dark" />
+  </a>
+</div>
 
 ---
 
 ### 📊 Github Stats
 
-![Nikolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolasmrt&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmrt&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolasmrt&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmrt&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true" />
+</div>
 
----
+<br/>
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-martins-oliveira)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nikolasportfolio.vercel.app/)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
+</div>
