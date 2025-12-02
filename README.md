@@ -36,14 +36,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
   <table>
     <tr>
       <td align="center"><b>Languages</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,csharp,js,html,css&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
       </td>
     </tr>
     <tr>
