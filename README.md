@@ -13,14 +13,14 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/nikolas-martins-oliveira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/nikolas-martins-oliveira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://nikolasportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  <a href="https://nikolasportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:nikoti2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </div>
@@ -37,22 +37,44 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,csharp,dotnet,postgres,mysql,docker,git,github,vscode&perline=6&theme=dark" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="90"><b>Languages</b></td>
+      <td align="center" width="500">
+        <img src="https://skillicons.dev/icons?i=python,csharp,js,html,css&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>Backend</b></td>
+      <td align="center" width="500">
+        <img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet,postgres,mysql,sqlite&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>DevOps & Tools</b></td>
+      <td align="center" width="500">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,rabbitmq,linux&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 Github Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolasmrt&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmrt&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolasmrt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmrt&layout=compact&theme=dracula"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolasmrt&theme=react-dark" />
 </div>
 
 <br/>
