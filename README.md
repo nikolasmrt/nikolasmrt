@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td align="center"><b>Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,n8n&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" /></td>
     </tr>
   </table>
 </div>
