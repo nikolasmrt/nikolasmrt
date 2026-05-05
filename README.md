@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td align="center"><b>Backend & DB</b></td>
-      <td><img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,postgres&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite&theme=dark" /></td>
     </tr>
     <tr>
       <td align="center"><b>Tools</b></td>
